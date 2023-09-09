@@ -24,6 +24,26 @@ The Supermarket Management System is a straightforward software solution designe
 ## Project Showcase
 
 [Insert Video Link Here](https://github.com/omaralibrahem7/super_market/blob/main/1212.mp4)
+<br>
+<br>
+
+<img src="https://github.com/omaralibrahem7/super_market/blob/main/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D8%AF%D8%AE%D9%88%D9%84%20.png" alt="Project Logo">
+
+<br>
+
+<img src="https://github.com/omaralibrahem7/super_market/blob/main/%D8%A7%D9%84%D8%A7%D8%B5%D9%86%D8%A7%D9%81.png" alt="Project Logo">
+<br>
+
+<img src="https://github.com/omaralibrahem7/super_market/blob/main/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA.png" alt="Project Logo">
+<br>
+
+<img src="https://github.com/omaralibrahem7/super_market/blob/main/%D8%B9%D9%85%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B9.png" alt="Project Logo">
+<br>
+
+<img src="https://github.com/omaralibrahem7/super_market/blob/main/%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D9%8A%D9%86.png" alt="Project Logo">
+<br>
+
+<img src="https://github.com/omaralibrahem7/super_market/blob/main/%D9%85%D8%B4%D8%AA%D8%B1%D9%8A%D8%A7%D8%AA%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B2%D8%A8%D9%88%D9%86%20.png" alt="Project Logo">
 
 For a detailed demonstration of the Supermarket Management System, please watch our video showcase. In the video, we showcase the various features and functionalities of the system, demonstrating how it can streamline supermarket operations and improve sales tracking.
 
