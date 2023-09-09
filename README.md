@@ -23,7 +23,7 @@ The Supermarket Management System is a straightforward software solution designe
 
 ## Project Showcase
 
-[Insert Video Link Here](#)
+[Insert Video Link Here](https://github.com/omaralibrahem7/super_market/blob/main/1212.mp4)
 
 For a detailed demonstration of the Supermarket Management System, please watch our video showcase. In the video, we showcase the various features and functionalities of the system, demonstrating how it can streamline supermarket operations and improve sales tracking.
 
